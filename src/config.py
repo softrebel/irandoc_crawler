@@ -1,6 +1,7 @@
 from src.lang import LANGS
 from src.utils import *
 
+
 BASE_API_URL='https://ganj.irandoc.ac.ir/api/v1'
 RESOURCES={
     'search':'search/main',
@@ -20,7 +21,7 @@ RESULTS_PER_PAGE={
 
 
 QUERY_PARAMS={
-    "basicscope":1,
+    "basicscope":5,
     "fulltext_status":1,
     "keywords":"",
     'results_per_page':RESULTS_PER_PAGE[25],

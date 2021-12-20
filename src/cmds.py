@@ -28,8 +28,16 @@ def cli():
 @click.option('-o', '--output', default='test.json', type=str, prompt=output_prompt,
               help='نام فایل خروجی')
 def search(keywords, year_from, year_to,output):
+    starting_crawl(keywords, year_from, year_to,output)
+
+
+def starting_crawl(keywords, year_from, year_to,output):
+    from datetime import datetime
+    start = datetime.now()
     result = Crawl.search(keywords, year_from, year_to)
     loop = asyncio.get_event_loop()
-    article_collection=loop.run_until_complete(Crawl.scrape_articles(result))
-    export=Crawl.export(article_collection,output)
-    print(LANG['crawl_done'])
+    article_collection = loop.run_until_complete(Crawl.scrape_articles(result))
+    export = Crawl.export(article_collection, output)
+    diff = datetime.now() - start
+    logging.info("total second "+ str(diff.total_seconds()))
+    logging.info(LANG['crawl_done'])
