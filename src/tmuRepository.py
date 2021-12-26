@@ -7,9 +7,28 @@ class TmuRepository:
 
 
 
+    def get_all_tags(self):
+        query='''
+        select f.name as first,g.name as second from  (
+            select tag.name,articleId
+            from article
+                     inner join article_tag on articleId = article.id
+                     inner join tag on tagId = tag.id ) as f
+            inner join  (
+            select tag.name,articleId
+            from article
+                     inner join article_tag on articleId = article.id
+                     inner join tag on tagId = tag.id ) as g
+            on f.articleId=g.articleId
+            where f.name != g.name
+        '''
+        con = sqlite3.connect(DB_NAME)
+        con.row_factory = sqlite3.Row
+        cur = con.cursor()
 
-
-
+        cur.execute(query)
+        rows=[dict(row) for row in cur.fetchall()]
+        return rows
 
     def get_article_tag_by_article_tag(self,articleId,tagId):
         con = sqlite3.connect(DB_NAME)
