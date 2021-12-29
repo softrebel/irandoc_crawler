@@ -13,14 +13,20 @@ class TmuRepository:
             select tag.name,articleId
             from article
                      inner join article_tag on articleId = article.id
-                     inner join tag on tagId = tag.id ) as f
+                     inner join tag on tagId = tag.id 
+                     where tag.name != ''
+                     ) as f
             inner join  (
             select tag.name,articleId
             from article
                      inner join article_tag on articleId = article.id
-                     inner join tag on tagId = tag.id ) as g
+                     inner join tag on tagId = tag.id 
+                     where tag.name != ''
+                     ) as g
             on f.articleId=g.articleId
             where f.name != g.name
+            and f.name!='' 
+            and g.name!=''
         '''
         con = sqlite3.connect(DB_NAME)
         con.row_factory = sqlite3.Row

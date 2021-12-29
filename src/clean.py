@@ -57,8 +57,9 @@ dic_incorrect_to_correct = {u"ٱ": u"آ", u"ﺁ": u"آ",
                                  u"ې": u"ی",
                                  u"ّ": u"",  # تشدید
                                  u"\u2009": u" ", u"\u200a": u" ", u"\u00a0": u" ",  # space \u00a0
-                                 u"\u200e": u"\u200c", u"\u2029": u"\u200c"  ,# halfspace
-                                u"\u200c":' '
+                                 u"\u200e": u'‌', u"\u2029": u'‌'  ,# halfspace
+                                u" ":u'‌',
+                                u"\u200c":u'‌'
                                  }
 def clean_character( text):
     """
@@ -113,35 +114,23 @@ def clean_pattern_for_regex( text_or_list):
         return update_clean_list_names
 
 
-def clean_pattern_for_irandoc(text_or_list):
+def clean_pattern_for_irandoc(text):
     """
-        در این تابع علاوه بر اصلاح کاراکترها به فرم استاندارد، تمامی کاراکترهای غیر الفبای فارسی و اعداد و همچنین نقطه و نیمفاصله حذف می‌شوند
+        اصلاح الفبا، تغییر فاصله به نیم فاصله
         :param text_or_list: ورودی یک متن یا لیستی از متن هست
         :return: خروجی متن تمیزشده است
         """
-    if not type(text_or_list) == list:
-        if isinstance(text_or_list, str):
-            text_or_list = text_or_list
-        regex = u"[^" + ('').join(valid_character) + u"]"
-        clean_text, _ = clean_character(text_or_list)
-        clean_text = re.sub(regex, " ", clean_text)
-        clean_text = re.sub("\s\s+", " ", clean_text).strip()
+    if isinstance(text, bytes):
+        text = text
+    text = re.sub("\s\s+", '‌', text).strip()
+    text = re.sub("\s", '‌', text).strip()
+    list_char = list(text)
 
-        return clean_text
-    if type(text_or_list) == list:
-        clean_list_names = []
-        regex = u"[^" + ("").join(valid_character) + u"]"
-        for name in text_or_list:
-
-            name_unicode = name
-            if isinstance(name, str):
-                name_unicode = name
-
-            clean_name, _ = clean_character(name_unicode)
-            clean_name = re.sub(regex, " ", clean_name)
-            clean_name = re.sub("\s+", " ", clean_name).strip()
-            if clean_name.strip() != "":
-                clean_list_names.append(clean_name.strip())
-
-        update_clean_list_names = [x for x in clean_list_names if x]
-        return update_clean_list_names
+    for index, val in enumerate(list_char):
+        if val in dic_incorrect_to_correct:
+            list_char[index] = dic_incorrect_to_correct[val]
+        else:
+            list_char[index]=val
+    if len(list_char) ==0 :
+        print(text)
+    return ('').join(list_char)

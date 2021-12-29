@@ -21,8 +21,6 @@ nodes=list(set([x['first'] for x in row]))
 edges=[(x['first'],x['second']) for x in row]
 
 
-
-
 g = Graph()
 g.add_vertices(nodes)
 g.add_edges(edges)
