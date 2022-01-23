@@ -7,6 +7,53 @@ class TmuRepository:
 
 
 
+    def get_article_tags(self):
+        # query='''
+        # select t.name as 'tag_name',r.name as 'researcher_name',ac.researcherTypeId from article
+        # inner join article_tag at on article.id = at.articleId
+        # inner join tag t on t.id = at.tagId
+        # inner join article_contributions ac on article.id = ac.articleId
+        # inner join researcher r on ac.researcherId = r.id
+        #
+        # '''
+        query='''
+        select t.name as 'tag_name',crawledName as 'researcher_name' from article
+        inner join article_tag at on article.id = at.articleId
+        inner join tag t on t.id = at.tagId
+        where t.name!=''
+        '''
+        con = sqlite3.connect(DB_NAME)
+        con.row_factory = sqlite3.Row
+        cur = con.cursor()
+
+        cur.execute(query)
+        rows = [dict(row) for row in cur.fetchall()]
+        return rows
+    def get_article_tags_by_time_frame(self,crawledName,timeframe):
+        # query='''
+        # select t.name as 'tag_name',r.name as 'researcher_name',ac.researcherTypeId from article
+        # inner join article_tag at on article.id = at.articleId
+        # inner join tag t on t.id = at.tagId
+        # inner join article_contributions ac on article.id = ac.articleId
+        # inner join researcher r on ac.researcherId = r.id
+        #
+        # '''
+        query=f'''
+        select t.name as 'tag_name',uuid,crawledName as 'researcher_name',jalaliPublishDate as 'publish_date' from article
+        inner join article_tag at on article.id = at.articleId
+        inner join tag t on t.id = at.tagId
+        where t.name!=''
+        and crawledName='{crawledName}'
+        and jalaliPublishDate in {str(tuple(timeframe))}
+        '''
+        con = sqlite3.connect(DB_NAME)
+        con.row_factory = sqlite3.Row
+        cur = con.cursor()
+
+        cur.execute(query)
+        rows = [dict(row) for row in cur.fetchall()]
+        return rows
+
     def get_all_tags(self):
         query='''
         select f.name as first,g.name as second from  (
