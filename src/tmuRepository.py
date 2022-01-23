@@ -7,6 +7,39 @@ class TmuRepository:
 
 
 
+    def get_article_tag_by_researcher_name(self,researcher_name=None,year_from=None,year_to=None):
+        query = f'''
+             select 
+                a.uuid as 'uuid',
+                a.title as 'title',
+                a.jalaliPublishDate as 'jalali_publish_date',
+                crawledName 'crawled_name',
+                t.name as 'tag',
+                r.name as 'researcher',
+                r.irandocId as 'researcher_irandoc_id',
+                rt.name as 'reseacher_type',
+pt.name as 'publishable_type'
+            from article a
+            inner join article_tag at on a.id = at.articleId
+            inner join tag t on t.id = at.tagId
+            inner join article_contributions ac on ac.articleId=a.id
+            inner join researcher_type rt on rt.id=ac.researcherTypeId
+            inner join researcher r on r.id=ac.researcherId
+            inner join publishable_type pt on pt.id=a.publishableTypeId
+            where t.name!=''
+            
+            and CAST(jalaliPublishDate as int)>={year_from if year_from else 1300}
+            and CAST(jalaliPublishDate as int)<={year_to if year_from else 1400}
+               '''
+        if researcher_name:
+            query+=f" and crawledName='{researcher_name}'"
+        con = sqlite3.connect(DB_NAME)
+        con.row_factory = sqlite3.Row
+        cur = con.cursor()
+
+        cur.execute(query)
+        rows = [dict(row) for row in cur.fetchall()]
+        return rows
     def get_article_tags(self):
         # query='''
         # select t.name as 'tag_name',r.name as 'researcher_name',ac.researcherTypeId from article
@@ -45,6 +78,7 @@ class TmuRepository:
         where t.name!=''
         and crawledName='{crawledName}'
         and jalaliPublishDate in {str(tuple(timeframe))}
+        and publishableTypeId=1 -- فقط پارسای داخل کشور
         '''
         con = sqlite3.connect(DB_NAME)
         con.row_factory = sqlite3.Row
