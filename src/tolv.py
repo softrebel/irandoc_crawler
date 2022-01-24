@@ -31,7 +31,7 @@ for name in names:
     partition.subgraphs()
     g.vs["group"] = partition.membership
     temp['communities'] = [[[x.vs[z]['name'] for z in e.tuple]
-                            for e in x.es] for x in partition.subgraphs()]
+                            for e in x.es] for x in partition.subgraphs() if len(x.es) > 0]
 
     print(f'modularity louvain {name}: {partition.modularity}')
 
