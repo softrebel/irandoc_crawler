@@ -32,6 +32,16 @@ for name in names:
     g.vs["group"] = partition.membership
     temp['communities'] = [[[x.vs[z]['name'] for z in e.tuple]
                             for e in x.es] for x in partition.subgraphs() if len(x.es) > 0]
+    for x in partition.subgraphs():
+        degrees=x.degree()
+        # closeness=x.closeness()
+
+        max_degree=degrees.index(max(degrees))
+
+        group_name=x.vs[max_degree]['name']
+        for vs in x.vs:
+            g.vs[vs.index]['group_name']=group_name
+
 
     print(f'modularity louvain {name}: {partition.modularity}')
 
@@ -44,7 +54,8 @@ for name in names:
     plot(partition, f'{name}.svg', **visual_style)
     # plot(clusters2, 'c_edge_betweenness.png', **visual_style)
     output['windows'].append(temp)
-    
+    g.write_graphml(f'clustered_{name}')
+
 with open('louvain_output.json', 'w',encoding='utf-8') as f:
     json.dump(output, f, indent=4,ensure_ascii=False)
 
