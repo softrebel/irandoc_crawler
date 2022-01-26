@@ -2,7 +2,8 @@ from src.config import *
 import sqlite3
 from src.Models.tmuModels import *
 class TmuRepository:
-    def __init__(self):
+    def __init__(self,db_name=DB_NAME):
+        self.db_name=db_name;
         pass
 
 
@@ -33,7 +34,7 @@ pt.name as 'publishable_type'
                '''
         if researcher_name:
             query+=f" and crawledName='{researcher_name}'"
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
 
@@ -55,7 +56,7 @@ pt.name as 'publishable_type'
         inner join tag t on t.id = at.tagId
         where t.name!=''
         '''
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
 
@@ -80,7 +81,7 @@ pt.name as 'publishable_type'
         and jalaliPublishDate in {str(tuple(timeframe))}
         and publishableTypeId=1 -- فقط پارسای داخل کشور
         '''
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
 
@@ -109,7 +110,7 @@ pt.name as 'publishable_type'
             and f.name!='' 
             and g.name!=''
         '''
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
 
@@ -118,7 +119,7 @@ pt.name as 'publishable_type'
         return rows
 
     def get_article_tag_by_article_tag(self,articleId,tagId):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM article_tag WHERE articleId=? and tagId=?", (articleId,tagId))
@@ -138,7 +139,7 @@ pt.name as 'publishable_type'
 
 
     def get_tag_by_name(self,name):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM tag WHERE name=?", (name,))
@@ -154,7 +155,7 @@ pt.name as 'publishable_type'
         return  None
 
     def get_researcher_type_by_name(self,name):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM researcher_type WHERE name=?", (name,))
@@ -170,7 +171,7 @@ pt.name as 'publishable_type'
         return  None
 
     def get_researcher_by_name(self,name):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM researcher WHERE name=?", (name,))
@@ -186,7 +187,7 @@ pt.name as 'publishable_type'
         return None
 
     def get_researcher_by_irandoc_id(self,irandocId):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM researcher WHERE irandocId=?", (irandocId,))
@@ -202,7 +203,7 @@ pt.name as 'publishable_type'
         return None
 
     def get_article_by_uuid(self,uuid):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM article WHERE uuid=?", (uuid,))
@@ -218,7 +219,7 @@ pt.name as 'publishable_type'
         return None
 
     def get_publishable_type_by_name(self,name):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM publishable_type WHERE name=?", (name,))
@@ -233,7 +234,7 @@ pt.name as 'publishable_type'
 
         return None
     def get_contrib_by_article_researcher_researchertype(self,articleId,researcherId,researcherTypeId):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         con.row_factory = sqlite3.Row
         cur = con.cursor()
         cur.execute("SELECT * FROM article_contributions WHERE articleId=? and researcherId=? and researcherTypeId=?"
@@ -250,7 +251,7 @@ pt.name as 'publishable_type'
         return None
 
     def insert_article_tag_if_not_exist(self,item:ArticleTag):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         cur = con.cursor()
         # Insert a row of data
         cur.execute(f'''
@@ -263,7 +264,7 @@ pt.name as 'publishable_type'
 
 
     def insert_tag_if_not_exist(self,item:Tag):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         cur = con.cursor()
         # Insert a row of data
         cur.execute(f'''
@@ -275,7 +276,7 @@ pt.name as 'publishable_type'
         return id
 
     def insert_article_contributions_if_not_exist(self,item:ArticleContributions):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         cur = con.cursor()
         # Insert a row of data
         cur.execute(f'''
@@ -287,7 +288,7 @@ pt.name as 'publishable_type'
         return id
 
     def insert_publishable_type_if_not_exist(self,item:PublishableType):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         cur = con.cursor()
         # Insert a row of data
         cur.execute(f'''
@@ -298,7 +299,7 @@ pt.name as 'publishable_type'
         con.close()
         return id
     def insert_researcher_if_not_exist(self,item:Professor):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
         cur = con.cursor()
         # Insert a row of data
         cur.execute(f'''
@@ -311,7 +312,7 @@ pt.name as 'publishable_type'
 
 
     def insert_researcher_type_if_not_exist(self,item:ProfessorType):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
 
         cur = con.cursor()
         # Insert a row of data
@@ -324,7 +325,7 @@ pt.name as 'publishable_type'
         return id
 
     def insert_article_if_not_exist(self,item:Article):
-        con = sqlite3.connect(DB_NAME)
+        con = sqlite3.connect(self.db_name)
 
         cur = con.cursor()
         # Insert a row of data
