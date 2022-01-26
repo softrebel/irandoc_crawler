@@ -3,12 +3,10 @@ output={
     'windows':[]
 }
 names=[
-    'ged_irandoc_one_mode_tf_1300_1372.graphml',
-    'ged_irandoc_one_mode_tf_1373_1377.graphml',
-    'ged_irandoc_one_mode_tf_1380_1384.graphml',
-    'ged_irandoc_one_mode_tf_1385_1389.graphml',
-    'ged_irandoc_one_mode_tf_1390_1394.graphml',
-    'ged_irandoc_one_mode_tf_1395_1399.graphml',
+    'ged_irandoc_one_mode_tf_1300_1386.graphml',
+    'ged_irandoc_one_mode_tf_1387_1389.graphml',
+    'ged_irandoc_one_mode_tf_1390_1399.graphml',
+
 ]
 for name in names:
     temp = {'communities': []}
