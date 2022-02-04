@@ -3,12 +3,10 @@ output={
     'windows':[]
 }
 names=[
-    'ged_irandoc_one_mode_tf_1300_1372.graphml',
-    'ged_irandoc_one_mode_tf_1373_1377.graphml',
-    'ged_irandoc_one_mode_tf_1380_1384.graphml',
-    'ged_irandoc_one_mode_tf_1385_1389.graphml',
-    'ged_irandoc_one_mode_tf_1390_1394.graphml',
-    'ged_irandoc_one_mode_tf_1395_1399.graphml',
+    'ged_irandoc_one_mode_tf_1388_1393.graphml',
+    'ged_irandoc_one_mode_tf_1392_1395.graphml',
+    'ged_irandoc_one_mode_tf_1394_1400.graphml',
+
 ]
 for name in names:
     temp = {'communities': []}
@@ -30,8 +28,19 @@ for name in names:
     visual_style["vertex_label"] = g.vs['label']
     partition.subgraphs()
     g.vs["group"] = partition.membership
-    temp['communities'] = [[[x.vs[z]['name'] for z in e.tuple]
-                            for e in x.es] for x in partition.subgraphs() if len(x.es) > 0]
+    # temp['communities'] = [[[x.vs[z]['name'] for z in e.tuple]
+    #                         for e in x.es] for x in partition.subgraphs() if len(x.es) > 0]
+    temp['communities']=[]
+    degrees = g.degree()
+    for x in partition.subgraphs():
+        if len(x.es) > 0:
+            for edge in x.es:
+                edgelist = [(g.vs[e.source]['name'], g.vs[e.target]
+                             ['name'], e['weight']/sum(degrees)) for e in x.es]
+                edgelist.extend([(e.target, e.source, e['weight']/sum(degrees))
+                                for e in x.es])
+                temp['communities'].append(edgelist)
+                
     for x in partition.subgraphs():
         degrees=x.degree()
         # closeness=x.closeness()
@@ -56,7 +65,7 @@ for name in names:
     output['windows'].append(temp)
     g.write_graphml(f'clustered_{name}')
 
-with open('louvain_output.json', 'w',encoding='utf-8') as f:
+with open('louvain_output_weighted.json', 'w',encoding='utf-8') as f:
     json.dump(output, f, indent=4,ensure_ascii=False)
 
 
