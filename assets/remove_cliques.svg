@@ -29901,1122 +29901,1122 @@
                 stroke-opacity="1.0" stroke-width="1.0"/>
     </g>
     <g id="node-labels">
-        <text font-size="52" x="-341.3298" y="-310.76596" fill="#000000"
+        <text font-size="17" x="-341.3298" y="-319.22543" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n2">
             بهینه سازی استوار
         </text>
-        <text font-size="70" x="-192.26572" y="-116.732376" fill="#000000"
+        <text font-size="23" x="-192.26572" y="-127.357864" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n3">
             تعیین قیمت
         </text>
-        <text font-size="35" x="-40.740936" y="-155.44785" fill="#000000"
+        <text font-size="12" x="-40.740936" y="-161.49919" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n6">
             سرمایه گذاری
         </text>
-        <text font-size="429" x="279.97598" y="258.52066" fill="#000000"
+        <text font-size="143" x="279.97598" y="189.39468" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n12">
             فناوری اطلاعات
         </text>
-        <text font-size="62" x="-140.63419" y="355.81433" fill="#000000"
+        <text font-size="21" x="-140.63419" y="345.90466" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n14">
             رفتار مشتری
         </text>
-        <text font-size="23" x="-14.956743" y="-41.473633" fill="#000000"
+        <text font-size="8" x="-14.956743" y="-45.09912" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n19">
             ایران خودرو شرکت
         </text>
-        <text font-size="14" x="-231.9769" y="471.81387" fill="#000000"
+        <text font-size="5" x="-231.9769" y="470.01797" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n39">
             بخش بندی بر حسب مشتری
         </text>
-        <text font-size="16" x="48.865887" y="-168.59053" fill="#000000"
+        <text font-size="5" x="48.865887" y="-171.24922" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n42">
             تسهیلات
         </text>
-        <text font-size="49" x="120.409035" y="237.67683" fill="#000000"
+        <text font-size="16" x="120.409035" y="229.70076" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n46">
             اینترنت
         </text>
-        <text font-size="56" x="-239.9022" y="-364.11542" fill="#000000"
+        <text font-size="19" x="-239.9022" y="-373.0583" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n64">
             کنترل موجودی
         </text>
-        <text font-size="13" x="-48.677387" y="523.13855" fill="#000000"
+        <text font-size="4" x="-48.677387" y="521.421" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n70">
             رده بندی
         </text>
-        <text font-size="14" x="-424.83673" y="-398.90997" fill="#000000"
+        <text font-size="5" x="-424.83673" y="-401.08527" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n74">
             برنامه ریزی تصادفی
         </text>
-        <text font-size="40" x="-110.61083" y="-365.83234" fill="#000000"
+        <text font-size="13" x="-110.61083" y="-372.35822" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n76">
             تولید
         </text>
-        <text font-size="48" x="119.40697" y="-209.84485" fill="#000000"
+        <text font-size="16" x="119.40697" y="-217.57922" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n77">
             طراحی
         </text>
-        <text font-size="14" x="310.82297" y="-18.363506" fill="#000000"
+        <text font-size="5" x="310.82297" y="-20.802471" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n82">
             طراحی آزمون
         </text>
-        <text font-size="15" x="-257.7417" y="42.319153" fill="#000000"
+        <text font-size="5" x="-257.7417" y="39.90216" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n97">
             جراحی
         </text>
-        <text font-size="103" x="-192.03862" y="338.47336" fill="#000000"
+        <text font-size="34" x="-192.03862" y="321.7961" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n111">
             ارزش طول عمر مشتری
         </text>
-        <text font-size="22" x="441.62177" y="-215.72264" fill="#000000"
+        <text font-size="7" x="441.62177" y="-219.38231" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n119">
             تحلیل پوششی داده ها
         </text>
-        <text font-size="42" x="280.14233" y="-442.476" fill="#000000"
+        <text font-size="14" x="280.14233" y="-449.15472" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n120">
             ریسک
         </text>
-        <text font-size="23" x="22.503918" y="-116.54381" fill="#000000"
+        <text font-size="8" x="22.503918" y="-119.422226" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n129">
             مدل
         </text>
-        <text font-size="26" x="281.72437" y="315.02036" fill="#000000"
+        <text font-size="9" x="281.72437" y="310.91147" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n130">
             بانکداری الکترونیکی
         </text>
-        <text font-size="19" x="-237.27835" y="-81.4564" fill="#000000"
+        <text font-size="6" x="-237.27835" y="-84.59849" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n141">
             بحران
         </text>
-        <text font-size="13" x="-102.226944" y="-135.82301" fill="#000000"
+        <text font-size="4" x="-102.226944" y="-137.9983" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n150">
             خدمات بیمارستانی
         </text>
-        <text font-size="32" x="394.7919" y="35.26259" fill="#000000"
+        <text font-size="11" x="394.7919" y="30.253555" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n161">
             مدیریت کیفیت
         </text>
-        <text font-size="14" x="-258.26508" y="-528.0638" fill="#000000"
+        <text font-size="5" x="-258.26508" y="-530.4317" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n172">
             الگوریتم
         </text>
-        <text font-size="32" x="-75.43899" y="355.5668" fill="#000000"
+        <text font-size="11" x="-75.43899" y="350.49112" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n175">
             ارزش دوره عمر مشتری
         </text>
-        <text font-size="16" x="350.4123" y="-96.17885" fill="#000000"
+        <text font-size="5" x="350.4123" y="-98.83754" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n183">
             تحلیل اثرات و حالت شکست
         </text>
-        <text font-size="18" x="-89.09252" y="201.56273" fill="#000000"
+        <text font-size="6" x="-89.09252" y="199.45628" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n203">
             صنعت بیمه
         </text>
-        <text font-size="14" x="-133.75154" y="-150.42384" fill="#000000"
+        <text font-size="5" x="-133.75154" y="-152.59914" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n208">
             تحقیق در عملیات
         </text>
-        <text font-size="13" x="355.76035" y="170.3277" fill="#000000"
+        <text font-size="4" x="355.76035" y="168.1524" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n225">
             دانش مشتری
         </text>
-        <text font-size="18" x="289.1422" y="93.727486" fill="#000000"
+        <text font-size="6" x="289.1422" y="90.827095" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n227">
             دولت الکترونیک
         </text>
-        <text font-size="29" x="404.89954" y="281.2216" fill="#000000"
+        <text font-size="10" x="404.89954" y="276.22263" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n232">
             دانشگاه تربیت مدرس
         </text>
-        <text font-size="13" x="572.9848" y="237.91243" fill="#000000"
+        <text font-size="4" x="572.9848" y="235.73714" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n238">
             تسهیم دانش
         </text>
-        <text font-size="14" x="-383.86392" y="-94.67743" fill="#000000"
+        <text font-size="5" x="-383.86392" y="-97.04535" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n250">
             الگوریتم بهینه سازی
         </text>
-        <text font-size="13" x="456.03528" y="165.1404" fill="#000000"
+        <text font-size="4" x="456.03528" y="162.9651" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n256">
             مدل معادلات ساختاری
         </text>
-        <text font-size="31" x="-34.31002" y="26.254356" fill="#000000"
+        <text font-size="10" x="-34.31002" y="22.246788" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n263">
             خرید
         </text>
-        <text font-size="16" x="-114.545944" y="108.82795" fill="#000000"
+        <text font-size="5" x="-114.545944" y="106.14419" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n266">
             پایش فرایند
         </text>
-        <text font-size="46" x="-49.70664" y="161.93434" fill="#000000"
+        <text font-size="15" x="-49.70664" y="156.0184" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n271">
             رتبه بندی
         </text>
-        <text font-size="19" x="-213.80824" y="-317.1853" fill="#000000"
+        <text font-size="6" x="-213.80824" y="-320.3274" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n287">
             تاخیر
         </text>
-        <text font-size="18" x="243.43535" y="-40.338165" fill="#000000"
+        <text font-size="6" x="243.43535" y="-43.238556" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n306">
             سیستم اطلاعاتی
         </text>
-        <text font-size="20" x="-98.567406" y="-465.64523" fill="#000000"
+        <text font-size="7" x="-98.567406" y="-468.78732" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n307">
             لجستیک معکوس
         </text>
-        <text font-size="32" x="109.825096" y="-40.01894" fill="#000000"
+        <text font-size="11" x="109.825096" y="-45.094624" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n315">
             مدیریت خطر
         </text>
-        <text font-size="13" x="-258.54062" y="742.59534" fill="#000000"
+        <text font-size="4" x="-258.54062" y="740.2274" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n325">
             یادگیری عمیق
         </text>
-        <text font-size="12" x="205.72774" y="189.5772" fill="#000000"
+        <text font-size="4" x="205.72774" y="187.6436" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n332">
             راهبرد
         </text>
-        <text font-size="92" x="81.79106" y="-154.43022" fill="#000000"
+        <text font-size="31" x="81.79106" y="-165.99678" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n334">
             صنعت خودرو
         </text>
-        <text font-size="12" x="18.17583" y="379.14856" fill="#000000"
+        <text font-size="4" x="18.17583" y="377.21497" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n335">
             رضایت بیمار
         </text>
-        <text font-size="18" x="455.4385" y="-23.105604" fill="#000000"
+        <text font-size="6" x="455.4385" y="-26.005995" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n340">
             ساختار سازمانی
         </text>
-        <text font-size="22" x="122.15255" y="-303.30444" fill="#000000"
+        <text font-size="7" x="122.15255" y="-306.5039" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n341">
             هماهنگی
         </text>
-        <text font-size="26" x="-163.60538" y="226.43228" fill="#000000"
+        <text font-size="9" x="-163.60538" y="223.17007" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n343">
             سلامت
         </text>
-        <text font-size="73" x="-207.17078" y="-77.17978" fill="#000000"
+        <text font-size="24" x="-207.17078" y="-90.07179" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n363">
             قیمت گذاری
         </text>
-        <text font-size="48" x="162.63307" y="-196.59413" fill="#000000"
+        <text font-size="16" x="162.63307" y="-205.0134" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n369">
             تصمیم گیری
         </text>
-        <text font-size="41" x="182.78957" y="-249.33627" fill="#000000"
+        <text font-size="14" x="182.78957" y="-255.86215" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n373">
             مدیریت احتمال خطر
         </text>
-        <text font-size="16" x="-289.70187" y="-35.356525" fill="#000000"
+        <text font-size="5" x="-289.70187" y="-38.015217" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n387">
             تجهیزات
         </text>
-        <text font-size="13" x="170.48662" y="243.78972" fill="#000000"
+        <text font-size="4" x="170.48662" y="241.61443" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n391">
             چارچوب
         </text>
-        <text font-size="14" x="238.84123" y="197.39053" fill="#000000"
+        <text font-size="5" x="238.84123" y="195.21524" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n392">
             نرم افزار رایانه ای
         </text>
-        <text font-size="15" x="11.560435" y="123.505775" fill="#000000"
+        <text font-size="5" x="11.560435" y="121.51033" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n397">
             خدمت به مشتری
         </text>
-        <text font-size="37" x="66.40754" y="225.34776" fill="#000000"
+        <text font-size="12" x="66.40754" y="220.5504" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n405">
             کیفیت خدمات
         </text>
-        <text font-size="17" x="-168.22414" y="-61.875694" fill="#000000"
+        <text font-size="6" x="-168.22414" y="-64.534386" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n407">
             فرایند تولید
         </text>
-        <text font-size="21" x="451.3398" y="2.5487714" fill="#000000"
+        <text font-size="7" x="451.3398" y="-0.1229409" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n423">
             مهندسی مجدد
         </text>
-        <text font-size="13" x="128.40764" y="-165.2178" fill="#000000"
+        <text font-size="4" x="128.40764" y="-167.3931" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n426">
             شناسایی بسامد رادیویی
         </text>
-        <text font-size="18" x="225.48164" y="274.72668" fill="#000000"
+        <text font-size="6" x="225.48164" y="271.8263" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n427">
             توانایی
         </text>
-        <text font-size="19" x="-142.00493" y="192.12845" fill="#000000"
+        <text font-size="6" x="-142.00493" y="188.98636" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n428">
             بازار رقابتی
         </text>
-        <text font-size="518" x="-141.85173" y="565.478" fill="#000000"
+        <text font-size="173" x="-141.85173" y="482.09177" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n432">
             داده کاوی
         </text>
-        <text font-size="157" x="344.38147" y="-100.08911" fill="#000000"
+        <text font-size="52" x="344.38147" y="-125.46753" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n434">
             ارزیابی عملکرد
         </text>
-        <text font-size="26" x="250.05745" y="431.68768" fill="#000000"
+        <text font-size="9" x="250.05745" y="427.08075" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n435">
             آموزش الکترونیکی
         </text>
-        <text font-size="94" x="2.8122973" y="-121.04477" fill="#000000"
+        <text font-size="31" x="2.8122973" y="-136.27182" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n445">
             رقابت
         </text>
-        <text font-size="23" x="-186.94469" y="619.87494" fill="#000000"
+        <text font-size="8" x="-186.94469" y="617.2419" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n454">
             دسته بندی
         </text>
-        <text font-size="15" x="208.4275" y="265.1112" fill="#000000"
+        <text font-size="5" x="208.4275" y="262.6942" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n474">
             علامت تجاری
         </text>
-        <text font-size="101" x="35.73069" y="-341.06577" fill="#000000"
+        <text font-size="34" x="35.73069" y="-353.85184" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n478">
             زنجیره ت مین
         </text>
-        <text font-size="14" x="-251.62988" y="-431.1513" fill="#000000"
+        <text font-size="5" x="-251.62988" y="-433.3266" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n481">
             مساله زمانبندی
         </text>
-        <text font-size="111" x="-69.71209" y="525.3809" fill="#000000"
+        <text font-size="37" x="-69.71209" y="510.61465" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n489">
             خوشه بندی
         </text>
-        <text font-size="14" x="-304.49072" y="-465.25714" fill="#000000"
+        <text font-size="5" x="-304.49072" y="-467.43243" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n492">
             برنامه ریزی چندهدفه
         </text>
-        <text font-size="21" x="327.00214" y="357.35327" fill="#000000"
+        <text font-size="7" x="327.00214" y="353.96948" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n496">
             سایت وب
         </text>
-        <text font-size="31" x="-484.74423" y="-366.5061" fill="#000000"
+        <text font-size="10" x="-484.74423" y="-371.5818" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n499">
             بهینه سازی چندهدفه
         </text>
-        <text font-size="98" x="134.49034" y="467.20026" fill="#000000"
+        <text font-size="33" x="134.49034" y="452.48428" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n504">
             شبکه اجتماعی
         </text>
-        <text font-size="37" x="296.07617" y="-298.57312" fill="#000000"
+        <text font-size="12" x="296.07617" y="-304.53625" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n522">
             مدیریت ریسک
         </text>
-        <text font-size="130" x="-359.15714" y="-381.92545" fill="#000000"
+        <text font-size="43" x="-359.15714" y="-402.95328" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n531">
             زمان بندی
         </text>
-        <text font-size="73" x="215.74135" y="71.83627" fill="#000000"
+        <text font-size="24" x="215.74135" y="59.99301" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n540">
             فرایند تحلیل سلسله مراتبی
         </text>
-        <text font-size="21" x="40.52277" y="335.87555" fill="#000000"
+        <text font-size="7" x="40.52277" y="332.49176" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n552">
             صنعت بانکداری
         </text>
-        <text font-size="16" x="2.4129124" y="368.83862" fill="#000000"
+        <text font-size="5" x="2.4129124" y="366.17993" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n555">
             وفاداری مشتری
         </text>
-        <text font-size="26" x="-114.38635" y="-330.29645" fill="#000000"
+        <text font-size="9" x="-114.38635" y="-334.40533" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n557">
             عرضه و تقاضا
         </text>
-        <text font-size="39" x="74.61484" y="-74.53431" fill="#000000"
+        <text font-size="13" x="74.61484" y="-79.49606" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n565">
             مدیریت
         </text>
-        <text font-size="14" x="85.2571" y="259.93066" fill="#000000"
+        <text font-size="5" x="85.2571" y="257.56274" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n568">
             نگرش
         </text>
-        <text font-size="13" x="-415.2296" y="-508.28946" fill="#000000"
+        <text font-size="4" x="-415.2296" y="-510.32706" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n575">
             مکان یابی هاب
         </text>
-        <text font-size="12" x="479.2742" y="209.66264" fill="#000000"
+        <text font-size="4" x="479.2742" y="207.72905" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n581">
             تجزیه و تحلیل عامل
         </text>
-        <text font-size="159" x="-4.0298405" y="-364.5736" fill="#000000"
+        <text font-size="53" x="-4.0298405" y="-390.19373" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n583">
             زنجیره تامین
         </text>
-        <text font-size="23" x="142.63383" y="379.46393" fill="#000000"
+        <text font-size="8" x="142.63383" y="375.5174" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n588">
             یادگیری
         </text>
-        <text font-size="32" x="-94.295135" y="27.829945" fill="#000000"
+        <text font-size="11" x="-94.295135" y="22.626087" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n589">
             بنگاه های اقتصادی
         </text>
-        <text font-size="157" x="-64.813515" y="-207.50967" fill="#000000"
+        <text font-size="52" x="-64.813515" y="-232.88809" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n598">
             بهینه سازی
         </text>
-        <text font-size="17" x="-3.4025419" y="186.50858" fill="#000000"
+        <text font-size="6" x="-3.4025419" y="183.61446" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n614">
             گردشگری
         </text>
-        <text font-size="22" x="-285.0831" y="-116.658615" fill="#000000"
+        <text font-size="7" x="-285.0831" y="-119.52117" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n617">
             سیستم خبره
         </text>
-        <text font-size="42" x="-324.5566" y="-426.80942" fill="#000000"
+        <text font-size="14" x="-324.5566" y="-434.17627" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n621">
             بهینه سازی گرده ذرات
         </text>
-        <text font-size="50" x="261.64612" y="-52.896782" fill="#000000"
+        <text font-size="17" x="261.64612" y="-59.19439" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n627">
             بهره وری
         </text>
-        <text font-size="21" x="483.09225" y="-32.686577" fill="#000000"
+        <text font-size="7" x="483.09225" y="-36.10227" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n634">
             بنیاد اروپایی مدیریت کیفیت
         </text>
-        <text font-size="12" x="-432.2673" y="-319.60153" fill="#000000"
+        <text font-size="4" x="-432.2673" y="-321.72458" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n637">
             الگوریتم بازپخت شبیه ساخت
         </text>
-        <text font-size="13" x="276.30188" y="252.89035" fill="#000000"
+        <text font-size="4" x="276.30188" y="250.71506" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n641">
             مدیریت دانش مشتری
         </text>
-        <text font-size="19" x="93.05952" y="-369.3377" fill="#000000"
+        <text font-size="6" x="93.05952" y="-372.4798" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n643">
             کارخانه خودروسازی
         </text>
-        <text font-size="12" x="-90.93116" y="118.39" fill="#000000"
+        <text font-size="4" x="-90.93116" y="116.456406" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n646">
             ترافیک
         </text>
-        <text font-size="13" x="-472.4448" y="15.022883" fill="#000000"
+        <text font-size="4" x="-472.4448" y="12.84759" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n648">
             نمودار کنترل
         </text>
-        <text font-size="115" x="-308.8295" y="-197.08868" fill="#000000"
+        <text font-size="38" x="-308.8295" y="-217.34756" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n649">
             الگوریتم ژنتیک
         </text>
-        <text font-size="31" x="287.9439" y="-95.03921" fill="#000000"
+        <text font-size="10" x="287.9439" y="-100.11489" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n655">
             منابع انسانی
         </text>
-        <text font-size="15" x="270.40543" y="-34.429516" fill="#000000"
+        <text font-size="5" x="270.40543" y="-36.846508" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n657">
             مدیریت منابع
         </text>
-        <text font-size="13" x="94.85023" y="36.697895" fill="#000000"
+        <text font-size="4" x="94.85023" y="34.522602" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n666">
             کسب و کارها
         </text>
-        <text font-size="34" x="-86.96584" y="261.937" fill="#000000"
+        <text font-size="11" x="-86.96584" y="256.37793" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n669">
             بخش بندی بازار
         </text>
-        <text font-size="18" x="-139.97307" y="24.080053" fill="#000000"
+        <text font-size="6" x="-139.97307" y="21.179663" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n678">
             روش های بهینه سازی
         </text>
-        <text font-size="34" x="256.81717" y="82.81893" fill="#000000"
+        <text font-size="11" x="256.81717" y="77.25985" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n679">
             مزیت رقابتی
         </text>
-        <text font-size="17" x="-22.806803" y="43.187695" fill="#000000"
+        <text font-size="6" x="-22.806803" y="41.10192" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n680">
             خودرو
         </text>
-        <text font-size="14" x="229.97963" y="-122.88412" fill="#000000"
+        <text font-size="5" x="229.97963" y="-125.05941" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n682">
             فرایند تحلیل شبکه ای
         </text>
-        <text font-size="15" x="-410.56512" y="-202.92162" fill="#000000"
+        <text font-size="5" x="-410.56512" y="-205.55264" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n683">
             الگوریتم ابتکاری
         </text>
-        <text font-size="22" x="-157.26869" y="-315.96735" fill="#000000"
+        <text font-size="7" x="-157.26869" y="-318.8299" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n687">
             هزینه
         </text>
-        <text font-size="37" x="-215.95401" y="-376.50726" fill="#000000"
+        <text font-size="12" x="-215.95401" y="-382.54974" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n688">
             حمل و نقل
         </text>
-        <text font-size="25" x="-239.97855" y="53.597237" fill="#000000"
+        <text font-size="8" x="-239.97855" y="50.600655" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n697">
             قیمت
         </text>
-        <text font-size="18" x="-184.83311" y="-459.53787" fill="#000000"
+        <text font-size="6" x="-184.83311" y="-462.43826" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n698">
             طراحی شبکه
         </text>
-        <text font-size="189" x="110.44334" y="239.77238" fill="#000000"
+        <text font-size="63" x="110.44334" y="209.31828" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n699">
             رضایت مشتری
         </text>
-        <text font-size="31" x="-93.4926" y="-166.9912" fill="#000000"
+        <text font-size="10" x="-93.4926" y="-172.06688" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n720">
             نظریه بازی
         </text>
-        <text font-size="19" x="159.0826" y="-51.48419" fill="#000000"
+        <text font-size="6" x="159.0826" y="-54.62628" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n727">
             اولویت
         </text>
-        <text font-size="192" x="-302.7869" y="218.87257" fill="#000000"
+        <text font-size="64" x="-302.7869" y="190.29965" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n738">
             شبکه عصبی
         </text>
-        <text font-size="41" x="-19.107426" y="143.40828" fill="#000000"
+        <text font-size="14" x="-19.107426" y="136.8824" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n748">
             بانکداری
         </text>
-        <text font-size="14" x="-223.34987" y="586.0737" fill="#000000"
+        <text font-size="5" x="-223.34987" y="583.7058" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n749">
             انتخاب ویژگی
         </text>
-        <text font-size="55" x="343.13437" y="302.0722" fill="#000000"
+        <text font-size="18" x="343.13437" y="294.9721" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n751">
             اعتماد
         </text>
-        <text font-size="32" x="-119.67511" y="-409.73233" fill="#000000"
+        <text font-size="11" x="-119.67511" y="-414.808" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n754">
             برنامه ریزی تولید
         </text>
-        <text font-size="101" x="174.12303" y="141.25851" fill="#000000"
+        <text font-size="34" x="174.12303" y="125.06467" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n762">
             کسب و کار
         </text>
-        <text font-size="24" x="-401.1655" y="-346.3198" fill="#000000"
+        <text font-size="8" x="-401.1655" y="-350.18698" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n790">
             تابع هدف
         </text>
-        <text font-size="16" x="-53.933098" y="-90.72546" fill="#000000"
+        <text font-size="5" x="-53.933098" y="-93.40922" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n798">
             مدیریت خطرپذیری
         </text>
-        <text font-size="18" x="104.54354" y="-84.59824" fill="#000000"
+        <text font-size="6" x="104.54354" y="-87.498634" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n805">
             تحلیل حساسیت
         </text>
-        <text font-size="44" x="383.7286" y="-206.7638" fill="#000000"
+        <text font-size="15" x="383.7286" y="-213.77307" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n807">
             کارت امتیازی متوازن
         </text>
-        <text font-size="13" x="-330.31772" y="488.72067" fill="#000000"
+        <text font-size="4" x="-330.31772" y="486.54538" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n809">
             سری زمانی
         </text>
-        <text font-size="17" x="66.512474" y="409.01663" fill="#000000"
+        <text font-size="6" x="66.512474" y="406.35794" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n813">
             تشخیص بیماری
         </text>
-        <text font-size="26" x="174.65218" y="-148.66959" fill="#000000"
+        <text font-size="9" x="174.65218" y="-152.77432" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n816">
             عملکرد
         </text>
-        <text font-size="50" x="-213.4418" y="224.74461" fill="#000000"
+        <text font-size="17" x="-213.4418" y="218.33153" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n821">
             هوش مصنوعی
         </text>
-        <text font-size="31" x="177.77803" y="603.44244" fill="#000000"
+        <text font-size="10" x="177.77803" y="597.9173" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n827">
             یادگیری الکترونیکی
         </text>
-        <text font-size="134" x="207.03166" y="185.78021" fill="#000000"
+        <text font-size="45" x="207.03166" y="164.26898" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n839">
             تجارت الکترونیکی
         </text>
-        <text font-size="19" x="-326.25723" y="-45.977005" fill="#000000"
+        <text font-size="6" x="-326.25723" y="-49.119095" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n844">
             بورس اوراق بهادار تهران
         </text>
-        <text font-size="14" x="-200.47937" y="-297.6492" fill="#000000"
+        <text font-size="5" x="-200.47937" y="-299.845" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n846">
             زمانبندی پروژه
         </text>
-        <text font-size="139" x="-29.53652" y="-91.02592" fill="#000000"
+        <text font-size="46" x="-29.53652" y="-113.503944" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n849">
             شبیه سازی
         </text>
-        <text font-size="62" x="-1.1062993" y="229.85876" fill="#000000"
+        <text font-size="21" x="-1.1062993" y="219.85567" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n850">
             سیستم پشتیبانی تصمیم
         </text>
-        <text font-size="16" x="-196.71754" y="508.48148" fill="#000000"
+        <text font-size="5" x="-196.71754" y="505.58737" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n856">
             رویگردانی مشتری
         </text>
-        <text font-size="13" x="375.66745" y="210.41217" fill="#000000"
+        <text font-size="4" x="375.66745" y="208.37457" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n861">
             خدمات بانکی
         </text>
-        <text font-size="13" x="-225.72034" y="114.55488" fill="#000000"
+        <text font-size="4" x="-225.72034" y="112.18696" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n870">
             تصمیم گیری چند معیاره
         </text>
-        <text font-size="300" x="-46.17262" y="-271.22842" fill="#000000"
+        <text font-size="100" x="-46.17262" y="-314.35992" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n873">
             مدیریت زنجیره تغذیه
         </text>
-        <text font-size="67" x="-360.13242" y="-231.8363" fill="#000000"
+        <text font-size="22" x="-360.13242" y="-242.71277" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n883">
             مدل ریاضی
         </text>
-        <text font-size="35" x="-269.2281" y="-454.89407" fill="#000000"
+        <text font-size="12" x="-269.2281" y="-460.45316" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n905">
             مسیریابی
         </text>
-        <text font-size="35" x="-171.48543" y="-35.459457" fill="#000000"
+        <text font-size="12" x="-171.48543" y="-41.01854" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n919">
             بیمارستان
         </text>
-        <text font-size="37" x="409.59845" y="349.67224" fill="#000000"
+        <text font-size="12" x="409.59845" y="342.89734" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n921">
             نوآوری
         </text>
-        <text font-size="20" x="-179.6022" y="-380.88007" fill="#000000"
+        <text font-size="7" x="-179.6022" y="-383.82324" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n925">
             مکان یابی
         </text>
-        <text font-size="21" x="370.22476" y="-37.60857" fill="#000000"
+        <text font-size="7" x="370.22476" y="-40.99236" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n928">
             سازمان
         </text>
-        <text font-size="28" x="192.69188" y="-18.377638" fill="#000000"
+        <text font-size="9" x="192.69188" y="-21.926222" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n931">
             کیفیت
         </text>
-        <text font-size="44" x="30.445974" y="-286.47684" fill="#000000"
+        <text font-size="15" x="30.445974" y="-293.4861" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n933">
             مدل سازی
         </text>
-        <text font-size="29" x="-147.87761" y="-184.62555" fill="#000000"
+        <text font-size="10" x="-147.87761" y="-189.21783" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n935">
             رقابت اقتصادی
         </text>
-        <text font-size="40" x="244.5988" y="-144.15343" fill="#000000"
+        <text font-size="13" x="244.5988" y="-150.6793" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n936">
             ارزیابی
         </text>
-        <text font-size="28" x="-21.77104" y="576.22064" fill="#000000"
+        <text font-size="9" x="-21.77104" y="571.62836" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n937">
             متن کاوی
         </text>
-        <text font-size="44" x="-44.089622" y="-265.3131" fill="#000000"
+        <text font-size="15" x="-44.089622" y="-272.3224" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n941">
             مدیریت زنجیره تامین
         </text>
-        <text font-size="16" x="447.0187" y="229.12929" fill="#000000"
+        <text font-size="5" x="447.0187" y="226.44554" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n946">
             مدل پذیرش فناوری
         </text>
-        <text font-size="14" x="259.9219" y="-301.33087" fill="#000000"
+        <text font-size="5" x="259.9219" y="-303.6988" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n952">
             اندازه گیری
         </text>
-        <text font-size="20" x="388.8137" y="-80.48325" fill="#000000"
+        <text font-size="7" x="388.8137" y="-83.62534" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n968">
             کارکنان
         </text>
-        <text font-size="14" x="-236.24551" y="-57.25592" fill="#000000"
+        <text font-size="5" x="-236.24551" y="-58.98297" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n971">
             سیاست های قیمت
         </text>
-        <text font-size="13" x="-250.17523" y="799.2965" fill="#000000"
+        <text font-size="4" x="-250.17523" y="796.9286" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n978">
             یادگیری ماشین
         </text>
-        <text font-size="27" x="352.2369" y="94.08295" fill="#000000"
+        <text font-size="9" x="352.2369" y="89.73236" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n987">
             فناوری اطلاعات و ارتباطات
         </text>
-        <text font-size="12" x="-418.78705" y="-488.46002" fill="#000000"
+        <text font-size="4" x="-418.78705" y="-490.2712" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n992">
             مسئله مکان یابی هاب
         </text>
-        <text font-size="17" x="-65.139015" y="588.3299" fill="#000000"
+        <text font-size="6" x="-65.139015" y="585.6712" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n999">
             تحلیل شبکه های اجتماعی
         </text>
-        <text font-size="28" x="450.17126" y="50.51836" fill="#000000"
+        <text font-size="9" x="450.17126" y="46.22295" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1001">
             موفقیت
         </text>
-        <text font-size="76" x="48.328934" y="93.13843" fill="#000000"
+        <text font-size="25" x="48.328934" y="82.96167" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1003">
             مشتری
         </text>
-        <text font-size="219" x="174.75864" y="90.45628" fill="#000000"
+        <text font-size="73" x="174.75864" y="55.168194" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1004">
             ایران
         </text>
-        <text font-size="55" x="-362.03415" y="-297.2999" fill="#000000"
+        <text font-size="18" x="-362.03415" y="-307.03467" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1006">
             الگوریتم فراابتکاری
         </text>
-        <text font-size="26" x="-360.20135" y="-204.3537" fill="#000000"
+        <text font-size="9" x="-360.20135" y="-208.46259" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1015">
             حل مساله
         </text>
-        <text font-size="29" x="-124.46305" y="-248.94891" fill="#000000"
+        <text font-size="10" x="-124.46305" y="-253.5412" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1017">
             برنامه ریزی خطی
         </text>
-        <text font-size="21" x="59.59748" y="-500.6898" fill="#000000"
+        <text font-size="7" x="59.59748" y="-504.10547" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1020">
             توسعه پایدار
         </text>
-        <text font-size="25" x="205.2119" y="237.10474" fill="#000000"
+        <text font-size="8" x="205.2119" y="232.99585" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1021">
             مدیریت فرایند کسب و کار
         </text>
-        <text font-size="21" x="-111.318405" y="317.13235" fill="#000000"
+        <text font-size="7" x="-111.318405" y="314.67484" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1022">
             بیمه
         </text>
-        <text font-size="92" x="-192.13908" y="436.90515" fill="#000000"
+        <text font-size="31" x="-192.13908" y="425.2641" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1030">
             درخت تصمیم
         </text>
-        <text font-size="15" x="-330.34604" y="144.43596" fill="#000000"
+        <text font-size="5" x="-330.34604" y="142.01897" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1032">
             بازار سهام
         </text>
-        <text font-size="46" x="354.31448" y="65.38573" fill="#000000"
+        <text font-size="15" x="354.31448" y="57.893055" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1039">
             مدل سازی معادلات ساختاری
         </text>
-        <text font-size="16" x="-70.592255" y="32.42447" fill="#000000"
+        <text font-size="5" x="-70.592255" y="29.443512" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1056">
             درآمد
         </text>
-        <text font-size="19" x="338.40552" y="-268.14496" fill="#000000"
+        <text font-size="6" x="338.40552" y="-271.28705" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1059">
             ارزیابی ریسک
         </text>
-        <text font-size="20" x="54.809853" y="-382.4642" fill="#000000"
+        <text font-size="7" x="54.809853" y="-385.6063" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1067">
             تخصیص منابع
         </text>
-        <text font-size="20" x="28.095715" y="248.32927" fill="#000000"
+        <text font-size="7" x="28.095715" y="245.18718" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1069">
             تجزیه و تحلیل سیستم ها
         </text>
-        <text font-size="15" x="258.9469" y="-203.37123" fill="#000000"
+        <text font-size="5" x="258.9469" y="-204.54147" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1072">
             صنعت
         </text>
-        <text font-size="19" x="-419.5526" y="-39.966175" fill="#000000"
+        <text font-size="6" x="-419.5526" y="-43.386505" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1076">
             تعمیر و نگهداری
         </text>
-        <text font-size="19" x="503.6556" y="108.0989" fill="#000000"
+        <text font-size="6" x="503.6556" y="104.67857" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1103">
             فرهنگ سازمانی
         </text>
-        <text font-size="16" x="27.978909" y="-460.34592" fill="#000000"
+        <text font-size="5" x="27.978909" y="-463.0046" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1108">
             برنامه ریزی راهبردی
         </text>
-        <text font-size="42" x="510.1444" y="41.211548" fill="#000000"
+        <text font-size="14" x="510.1444" y="34.44397" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1109">
             عملکرد سازمان
         </text>
-        <text font-size="14" x="-259.0895" y="-413.54013" fill="#000000"
+        <text font-size="5" x="-259.0895" y="-415.71542" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1110">
             برنامه ریزی خطی با اعداد صحیح
         </text>
-        <text font-size="42" x="119.1743" y="292.01663" fill="#000000"
+        <text font-size="14" x="119.1743" y="284.64978" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1111">
             تصمیم گیری چندمعیاره
         </text>
-        <text font-size="12" x="-155.06964" y="156.96156" fill="#000000"
+        <text font-size="4" x="-155.06964" y="155.4264" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1122">
             صنعت خدماتی
         </text>
-        <text font-size="187" x="359.707" y="281.8064" fill="#000000"
+        <text font-size="62" x="359.707" y="251.59398" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1127">
             مدیریت دانش
         </text>
-        <text font-size="19" x="-6.8366556" y="-286.26108" fill="#000000"
+        <text font-size="6" x="-6.8366556" y="-288.74194" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1130">
             توزیع
         </text>
-        <text font-size="20" x="-196.80606" y="-540.81635" fill="#000000"
+        <text font-size="7" x="-196.80606" y="-543.3046" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1136">
             اختلال
         </text>
-        <text font-size="14" x="548.6235" y="195.78838" fill="#000000"
+        <text font-size="5" x="548.6235" y="193.61308" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1147">
             دانش سازمانی
         </text>
-        <text font-size="39" x="388.05933" y="4.7531614" fill="#000000"
+        <text font-size="13" x="388.05933" y="-1.5310183" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1155">
             مدیریت کیفیت جامع
         </text>
-        <text font-size="22" x="330.66702" y="203.14134" fill="#000000"
+        <text font-size="7" x="330.66702" y="199.51585" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1162">
             تجارت الکترونیک
         </text>
-        <text font-size="14" x="-2.1403992" y="248.85596" fill="#000000"
+        <text font-size="5" x="-2.1403992" y="246.66016" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1168">
             ارزیابی خطرپذیری
         </text>
-        <text font-size="39" x="-212.88303" y="-166.49924" fill="#000000"
+        <text font-size="13" x="-212.88303" y="-172.78342" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1169">
             برنامه ریزی
         </text>
-        <text font-size="19" x="-196.33087" y="475.83875" fill="#000000"
+        <text font-size="6" x="-196.33087" y="472.69666" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1172">
             بخش بندی مشتریان
         </text>
-        <text font-size="20" x="-88.893456" y="-323.1353" fill="#000000"
+        <text font-size="7" x="-88.893456" y="-326.07428" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1185">
             خرده فروشی
         </text>
-        <text font-size="18" x="117.07596" y="541.14355" fill="#000000"
+        <text font-size="6" x="117.07596" y="538.24316" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1193">
             شخصی سازی
         </text>
-        <text font-size="12" x="76.37768" y="320.0034" fill="#000000"
+        <text font-size="4" x="76.37768" y="318.4487" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1200">
             بخش بندی
         </text>
-        <text font-size="17" x="242.0593" y="-194.22577" fill="#000000"
+        <text font-size="6" x="242.0593" y="-196.90953" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1204">
             تحلیل پوشش داده ها
         </text>
-        <text font-size="36" x="-218.01237" y="-252.9761" fill="#000000"
+        <text font-size="12" x="-218.01237" y="-258.4097" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1205">
             قابلیت اطمینان
         </text>
-        <text font-size="70" x="-138.51764" y="75.44627" fill="#000000"
+        <text font-size="23" x="-138.51764" y="62.709457" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1207">
             سودآوری
         </text>
-        <text font-size="57" x="-75.42499" y="-95.23605" fill="#000000"
+        <text font-size="19" x="-75.42499" y="-104.42062" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1250">
             منطق فازی
         </text>
-        <text font-size="132" x="-294.86273" y="-342.53168" fill="#000000"
+        <text font-size="44" x="-294.86273" y="-363.8012" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1252">
             عدم قطعیت
         </text>
-        <text font-size="14" x="70.6444" y="-334.6335" fill="#000000"
+        <text font-size="5" x="70.6444" y="-336.6711" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1265">
             صنعت لبنیات
         </text>
-        <text font-size="28" x="192.65224" y="-187.16718" fill="#000000"
+        <text font-size="9" x="192.65224" y="-191.75946" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1269">
             کارایی
         </text>
-        <text font-size="17" x="-15.43965" y="-364.8527" fill="#000000"
+        <text font-size="6" x="-15.43965" y="-367.51138" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1272">
             سفارش
         </text>
-        <text font-size="68" x="-359.2452" y="346.56635" fill="#000000"
+        <text font-size="23" x="-359.2452" y="337.7187" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1274">
             پیش بینی
         </text>
-        <text font-size="14" x="140.74062" y="-474.34952" fill="#000000"
+        <text font-size="5" x="140.74062" y="-476.5248" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1275">
             انتخاب تامین کننده
         </text>
-        <text font-size="14" x="212.80281" y="-489.60635" fill="#000000"
+        <text font-size="5" x="212.80281" y="-491.75308" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1276">
             عرضه کننده
         </text>
-        <text font-size="23" x="449.66745" y="259.68597" fill="#000000"
+        <text font-size="8" x="449.66745" y="255.62105" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1278">
             آموزش عالی
         </text>
-        <text font-size="15" x="-454.5627" y="-33.55666" fill="#000000"
+        <text font-size="5" x="-454.5627" y="-35.941914" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1281">
             شبکه عصبی مصنوعی
         </text>
-        <text font-size="98" x="-56.99131" y="104.61325" fill="#000000"
+        <text font-size="33" x="-56.99131" y="88.9028" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1283">
             بازاریابی
         </text>
-        <text font-size="23" x="-296.36276" y="213.13506" fill="#000000"
+        <text font-size="8" x="-296.36276" y="209.50957" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1293">
             کنترل کیفیت
         </text>
-        <text font-size="205" x="-33.72377" y="396.45114" fill="#000000"
+        <text font-size="68" x="-33.72377" y="363.33835" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1295">
             مدیریت ارتباط با مشتری
         </text>
-        <text font-size="26" x="23.362831" y="-256.37506" fill="#000000"
+        <text font-size="9" x="23.362831" y="-260.48395" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1297">
             شبیه سازی رایانه ای
         </text>
-        <text font-size="18" x="-285.9221" y="-499.37402" fill="#000000"
+        <text font-size="6" x="-285.9221" y="-502.2744" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1300">
             زمانبندی
         </text>
-        <text font-size="85" x="-326.91367" y="-175.44354" fill="#000000"
+        <text font-size="28" x="-326.91367" y="-190.44035" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1302">
             الگوریتم ژنتیکی
         </text>
-        <text font-size="13" x="-217.87349" y="-407.9449" fill="#000000"
+        <text font-size="4" x="-217.87349" y="-410.12018" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1304">
             برنامه ریزی دو سطحی
         </text>
-        <text font-size="15" x="-235.52687" y="401.83536" fill="#000000"
+        <text font-size="5" x="-235.52687" y="399.41837" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1309">
             اجتماع یابی
         </text>
-        <text font-size="15" x="-84.70313" y="-191.34439" fill="#000000"
+        <text font-size="5" x="-84.70313" y="-193.78416" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1314">
             پیش بینی تقاضا
         </text>
-        <text font-size="21" x="-167.40755" y="-262.06717" fill="#000000"
+        <text font-size="7" x="-167.40755" y="-265.8611" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1315">
             مدیریت درآمد
         </text>
-        <text font-size="22" x="152.06001" y="-137.52344" fill="#000000"
+        <text font-size="7" x="152.06001" y="-141.14893" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1317">
             نیروی انسانی
         </text>
-        <text font-size="22" x="-223.4927" y="-279.41174" fill="#000000"
+        <text font-size="7" x="-223.4927" y="-283.03723" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1326">
             برنامه ریزی ریاضی
         </text>
-        <text font-size="85" x="149.78833" y="-262.86816" fill="#000000"
+        <text font-size="28" x="149.78833" y="-273.87573" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1328">
             مدیریت پروژه
         </text>
-        <text font-size="45" x="-310.4849" y="-270.6733" fill="#000000"
+        <text font-size="15" x="-310.4849" y="-276.37155" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1337">
             تقاضا
         </text>
-        <text font-size="17" x="-28.19008" y="-186.57988" fill="#000000"
+        <text font-size="6" x="-28.19008" y="-189.23857" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Tahoma" class="id_n1342">
             تامین بودجه

@@ -47,7 +47,7 @@
  
 # گراف با clique
  
- ![graph with cliques](./assets/cliques_all_project.svg)
+ ![graph with cliques](./assets/remove_cliques.svg)
  
  # تشکر
  شایان ذکر است از راهنمایی های جناب دکتر تیمورپور در پیش‌برد این پروژه تشکر نمایم.
