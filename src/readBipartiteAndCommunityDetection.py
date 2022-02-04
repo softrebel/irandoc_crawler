@@ -62,7 +62,7 @@ def run_community_detection_and_plot(input_prompt):
 
     # plot(partition,  **visual_style)
     plot(partition, f'{input_prompt.replace(".graphml","")}_louvain.svg', **visual_style)
-
+    print( f'{input_prompt.replace(".graphml","")}_louvain.svg Created.')
 
 
 
