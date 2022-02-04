@@ -3,10 +3,11 @@
 # طریقه استفاده از برنامه
 
 این پروژه به علت استفاده در پروژه GED شامل فایل‌های متعددی می‌باشد اما برای استخراج گراف واژگان فقط از دو فایل زیر استفاده می‌کنیم:
-
+<div  dir="ltr"  align="left">
+ 
  - src/generate_bipartite_from_input.py
  - src/readBipartiteAndCommunityDetection.py
-
+</div>
 ابتدا با دستور زیر، پیش‌نیازهای برنامه را نصب می‌کنیم:
 
 <div  dir="ltr"  align="left">
