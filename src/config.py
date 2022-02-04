@@ -1,6 +1,6 @@
 from src.lang import LANGS
 from src.utils import *
-DB_NAME='tmudb.sqlite'
+DB_NAME='src/tmudb.sqlite'
 
 
 BASE_API_URL='https://ganj.irandoc.ac.ir/api/v1'

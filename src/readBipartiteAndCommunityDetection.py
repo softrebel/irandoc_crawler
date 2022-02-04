@@ -61,7 +61,7 @@ def run_community_detection_and_plot(input_prompt):
     visual_style['vertex_order_by'] = ('group', 'asc')
 
     # plot(partition,  **visual_style)
-    plot(partition, f'{input_prompt}.svg', **visual_style)
+    plot(partition, f'{input_prompt.replace(".graphml","")}_louvain.svg', **visual_style)
 
 
 

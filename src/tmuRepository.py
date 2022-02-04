@@ -63,6 +63,29 @@ pt.name as 'publishable_type'
         cur.execute(query)
         rows = [dict(row) for row in cur.fetchall()]
         return rows
+    def get_article_tags_by_crawled_name(self,crawledName):
+        # query='''
+        # select t.name as 'tag_name',r.name as 'researcher_name',ac.researcherTypeId from article
+        # inner join article_tag at on article.id = at.articleId
+        # inner join tag t on t.id = at.tagId
+        # inner join article_contributions ac on article.id = ac.articleId
+        # inner join researcher r on ac.researcherId = r.id
+        #
+        # '''
+        query=f'''
+        select t.name as 'tag_name',a.uuid,a.crawledName as 'researcher_name',a.jalaliPublishDate as 'publish_date' from article a
+        inner join article_tag at on a.id = at.articleId
+        inner join tag t on t.id = at.tagId
+        where t.name!=''
+        and trim(a.crawledName) == '{crawledName.strip()}'
+        '''
+        con = sqlite3.connect(self.db_name)
+        con.row_factory = sqlite3.Row
+        cur = con.cursor()
+
+        cur.execute(query)
+        rows = [dict(row) for row in cur.fetchall()]
+        return rows
     def get_article_tags_by_time_frame(self,crawledName,timeframe):
         # query='''
         # select t.name as 'tag_name',r.name as 'researcher_name',ac.researcherTypeId from article
