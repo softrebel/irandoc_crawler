@@ -33,12 +33,21 @@
 
 سپس با وارد کردن نام استاد، اطلاعات استاد از پایگاه داده فراخوانی شده و فایل graphml و خروجی svg ساخته می‌شود:
 
-![enter image description here](./assets/project1.PNG)
+![generate_bipartite_from_input](./assets/project1.PNG)
 
 حال برای اجتماع‌یابی، فایل readBipartiteAndCommunityDetection.py را به یکی از دو صورت بالا اجرا می‌کنیم و نام فایل graphml ساخته شده در مرحله قبل را وارد می‌کنیم:
 
-![enter image description here](./assets/project2.PNG)
+![readBipartiteAndCommunityDetection](./assets/project2.PNG)
  
+ 
+ # گراف دوبخشی
+ 
+![bipartite graph](./assets/project.svg)
+ 
+ 
+ #گراف با clique
+ 
+ ![graph with cliques](./assets/cliques_all_project.svg)
  
  # تشکر
  شایان ذکر است از راهنمایی های جناب دکتر تیمورپور در پیش‌برد این پروژه تشکر نمایم.
