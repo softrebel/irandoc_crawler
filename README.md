@@ -49,7 +49,7 @@
 ![bipartite graph](./assets/project.svg)
  
  
-# گراف با clique
+## گراف با clique
  
  ![graph with cliques](./assets/remove_cliques.svg)
  
